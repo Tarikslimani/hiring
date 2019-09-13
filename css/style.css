@@ -268,9 +268,9 @@ button:focus {
 }
 
 .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
-  background-image: -moz-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -webkit-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -ms-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
+  background-image: -moz-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
+  background-image: -webkit-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
+  background-image: -ms-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
   color: #fff;
 }
 
@@ -473,9 +473,9 @@ button:focus {
   position: relative;
   z-index: 1;
   min-height: 400px;
-  background-image: -moz-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
-  background-image: -webkit-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
-  background-image: -ms-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
+  background-image: -moz-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
+  background-image: -webkit-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
+  background-image: -ms-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
 }
 
 .banner_area .banner_inner {
@@ -585,9 +585,9 @@ button:focus {
 }
 
 .l_news_item:hover .date {
-  background-image: -moz-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -webkit-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -ms-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
+  background-image: -moz-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
+  background-image: -webkit-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
+  background-image: -ms-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
   color: #fff;
   border-color: #f9f9ff;
 }
@@ -836,9 +836,9 @@ button:focus {
 }
 
 .categories_post:hover .categories_details {
-  background-image: -moz-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
-  background-image: -webkit-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
-  background-image: -ms-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
+  background-image: -moz-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
+  background-image: -webkit-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
+  background-image: -ms-linear-gradient(0deg, #9ad9d8 0%, #9ad9d8 100%);
   background-color: transparent;
 }
 
